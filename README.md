@@ -1,5 +1,14 @@
-## Next.js App Router Course - Starter
+# React & Next.js Refresh
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This repository documents my React and Next.js refresh while preparing for full-stack software engineering roles.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Instead of treating tutorials as disposable, I'm using them to revisit core concepts, experiment, and gradually adapt examples into my own implementations.
+
+Topics include:
+
+- React fundamentals
+- Next.js App Router
+- Server Components
+- Data fetching
+- Authentication
+- TypeScript
